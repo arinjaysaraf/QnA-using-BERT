@@ -11,8 +11,8 @@
 - The Web Application takes a passage and a question as input, then returns a segment of the passage that most likely answers the question with respective BERT evaluated score.
 ## Screenshots
 
-![image_1](https://ibb.co/gJ6r4N6)
-![image_2](https://ibb.co/K79YBfq)
+![image_1](https://i.postimg.cc/yD9T0jMR/Screenshot-from-2022-07-29-20-32-42.png)
+![image_2](https://i.postimg.cc/nCNksgPZ/Screenshot-from-2022-07-29-20-33-48.png)
 
 
 ## Deployment
