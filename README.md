@@ -17,4 +17,4 @@
 
 ## Deployment
 
-[Q&A NLP Application using BERT](https://bit.ly/QnA-using-bert)
+[Q&A NLP Application using BERT](https://62e3f2fb4d86c80087a652fb--fantastic-vacherin-2ee382.netlify.app/)
