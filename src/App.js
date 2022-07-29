@@ -49,11 +49,11 @@ const App = () => {
         </div>
         :
         <Fragment>
-          Passage
+          <h3>Passage</h3>
           <textarea ref={passageRef} rows="30" cols="100"></textarea>
-          Ask a Question
+          <h4>Ask a Question</h4>
           <input ref={questionRef} onKeyPress={answerQuestion} size="80"></input>
-          answers
+          <h4>answers</h4>
           {answer ? answer.map((ans,idx)=><div><b>Answer {idx+1} - </b>{ans.text} {Math.floor(ans.score*100)/100}</div>): ""}
         </Fragment>
       }
